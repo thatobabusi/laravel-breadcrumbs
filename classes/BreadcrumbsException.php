@@ -1,6 +1,6 @@
 <?php
 
-namespace DaveJamesMiller\Breadcrumbs;
+namespace ThatoBabusi\Breadcrumbs;
 
 use Exception;
 

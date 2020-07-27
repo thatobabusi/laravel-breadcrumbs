@@ -1,6 +1,6 @@
 <?php
 
-namespace DaveJamesMiller\Breadcrumbs;
+namespace ThatoBabusi\Breadcrumbs;
 
 // Not available until Laravel 5.8
 //use Illuminate\Contracts\Support\DeferrableProvider;
